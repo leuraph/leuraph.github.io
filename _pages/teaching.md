@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Some courses I was involved in.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+| Semester    | Course   | Role | Institution |
+|-------------|----------|-------------|---------|
+| Spring 2023 | Numerical Mathematics | Teaching Assistant | University of Bern
+| Fall 2023   | Partial Differential Equations | Teaching Assistant | University of Bern
+| Spring 2024 | Physics 2 (Thermodynamics) | Teaching Assistant | Eastern Switzerland University of Applied Sciences
 
-Organize your courses by years, topics, or universities, however you like!
