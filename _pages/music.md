@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+{% include figure.liquid path="assets/img/split_party_drums.jpeg" class="img-fluid rounded z-depth-1" %}
+
 # KAUFMANN
 
 As a drummer, I have been part of the band [Kaufmann](www.kaufmannnmusik.ch) since 2015.
