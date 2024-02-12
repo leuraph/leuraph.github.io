@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /music/
-title: Music
+title: music
 description: Below, you can find an excerpt of the music projects I was involved in.
 nav: true
 nav_order: 4
