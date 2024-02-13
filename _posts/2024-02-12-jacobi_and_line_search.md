@@ -128,14 +128,21 @@ i.e. we do a line search for each canonical basis vector $$e_i$$.
 Namely, for each $$i \in \{ 1, \dots, N \}$$, we calculate
 
 $$
-\alpha_i = \frac{e_i^T r_k}{e_i^T A e_i} = \frac{r_k^i}{A_ii},
+\alpha_i = \frac{e_i^T r_k}{e_i^T A e_i} = \frac{r_k^i}{A_{ii}},
 $$
 
 where $$r_k^i$$ denotes the $$i$$-th entry of the vector $$r_k$$.
 Then, we collect all of these values in a single
-direction vector $$d_k$$, recovering the Jacobi method in doing so.
+direction vector $$d_k$$.
 Namely, we define
 
 $$
 d_k := \sum_i \alpha_i e_i =  \mathrm{diag}(A)^{-1} r_k.
+$$
+
+Finally, by using this direction vector in eq. \eqref{eq:algo},
+we indeed recover the Jacobi method, i.e.
+
+$$
+x_{k+1} = x_k + D^{-1}r_k.
 $$
