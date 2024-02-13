@@ -23,6 +23,8 @@ I am especially interested in solving
 non-linear Partial Differential Equations (PDEs) by means of variational energy reduction techniques
 on adaptive finite element (FEM) spaces.
 
+---
+
 I have formerly worked as a research assistant at the [Eastern Switzerland University Of Applied Sciences](https://www.ost.ch/en/)
 in the
 [Scientific Computing & Engineering team](https://www.ost.ch/en/research-and-consulting-services/technology/renewable-energies-and-environmental-engineering/iet-institute-for-energy-technology/scientific-computing-engineering)
