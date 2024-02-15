@@ -16,7 +16,7 @@ you can do this easily in the following way.
 - Follow the instructions found on the [official doc](https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html) to deploy and host your own JupyterLite website on github pages.
 - Add (commit and push) any notebook you want to host to your repo.
 - To embed a live environment on your website, you can follow [this guide](https://jupyterlite.readthedocs.io/en/latest/quickstart/embed-repl.html).
-- To embed the Notebook in your existing website, simply indluce the following code snippet.
+- To embed the Notebook in your existing website, simply include the following code snippet.
   ```html
   <iframe
     src="https://your_username.github.io/your-repo/notebooks/index.html?path=path/to/notebook.ipynb"
