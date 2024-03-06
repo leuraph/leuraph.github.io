@@ -12,8 +12,14 @@ nav_order: 4
 # KAUFMANN
 
 As a drummer, I have been part of the band [Kaufmann](www.kaufmannnmusik.ch) since 2015.
-Since then, we have published two LPs, one EP, and three split-singles,
+We have published two LPs (one of which under the Zytglogge Verlag), one EP, three split-singles,
 and have played more than 150 concerts throughout Switzerland.
+
+{% include figure.liquid path="assets/img/kaufmann_philippe_juettner.jpeg" class="img-fluid rounded z-depth-1" %}
+<div style="font-size: 10px; text-align: center; font-style: italic;">
+  Kaufmann, 2023 (credits: Philippe Jüttner)<br>
+  <br>
+</div>
 
 
 <div class="flex" align="center">
@@ -32,6 +38,12 @@ and have played more than 150 concerts throughout Switzerland.
 
 I have been part of the Band [Happy For Real](https://www.happyforreal.ch/)
 as a live drummer since Summer 2023.
+
+{% include figure.liquid path="assets/img/hfr_dominic_pohle.jpeg" class="img-fluid rounded z-depth-1" %}
+<div style="font-size: 10px; text-align: center; font-style: italic;">
+  Happy For Real, 2024 (credits: Dominic Pohle)<br>
+  <br>
+</div>
 
 <div class="flex" align="center">
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6KJAq5DvO3GgWoDpE3w6nB?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" class="align-items-center"></iframe>
