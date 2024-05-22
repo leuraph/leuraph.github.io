@@ -2,7 +2,7 @@
 layout: post
 title: Hosting your Jupyter Notebooks
 date: 2024-02-15 10:00:00+0100
-description: A cute way of (interactively) hosting yor Jupyter Notebooks
+description: A cute way of (interactively) hosting your Jupyter Notebooks
 tags: notes
 categories: labbook
 related_posts: false
