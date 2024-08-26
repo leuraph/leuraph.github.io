@@ -15,9 +15,9 @@ As a drummer, I have been part of the band [Kaufmann](www.kaufmannnmusik.ch) sin
 We have published two LPs (one of which under the Zytglogge Verlag), one EP, three split-singles,
 and have played more than 150 concerts throughout Switzerland.
 
-{% include figure.liquid path="assets/img/kaufmann_philippe_juettner.jpeg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/kaufmann_paleggo_24.jpg" class="img-fluid rounded z-depth-1" %}
 <div style="font-size: 10px; text-align: center; font-style: italic;">
-  Kaufmann, 2023 (credits: Philippe Jüttner)<br>
+  Kaufmann, 2024<br>
   <br>
 </div>
 
