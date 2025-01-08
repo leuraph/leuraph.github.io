@@ -43,7 +43,7 @@ and have played more than 150 concerts throughout Switzerland.
 I have been part of the Band [Happy For Real](https://www.happyforreal.ch/)
 as a live drummer since Summer 2023.
 
-{% include figure.liquid path="assets/img/hfr_dominic_pohle.jpeg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/hfr_dominic_pohle.jpg" class="img-fluid rounded z-depth-1" %}
 <div style="font-size: 10px; text-align: center; font-style: italic;">
   Happy For Real, 2024 (credits: Dominic Pohle)<br>
   <br>
