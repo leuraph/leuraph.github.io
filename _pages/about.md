@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a **physicist**, (scientific) **software developer**, and **drummer**.
+Equal parts **scientist** and **artist**.
+Physicist and PhD Researcher in numerical analysis.
+Musician fronting Arkas, drummer of two bands, and co-head of Lauter Festival (ZH).
 
 Currently, I am persuing a **PhD** in mathematics at the University Of Bern with a focus on numerical analysis.
 I am especially interested in solving
