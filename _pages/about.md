@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: 2025-12-08_Lauter_OK_Leu_2192.jpg
+  image: 2025-12-08_Lauter_OK_Leu_2192_compressed.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
