@@ -2,13 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Some courses I was involved in.
+description: Courses I tought.
 nav: true
 nav_order: 6
 ---
 
 | Semester    | Course   | Role | Institution |
 |-------------|----------|-------------|---------|
+| Spring 2026 | Introduction To Math For Economic And Social Sciences | Teaching Assistant | University of Bern
 | Fall 2025 | Numerical Mathematics | Teaching Assistant | University of Bern
 | Spring 2025 | Introduction To Math For Economic And Social Sciences | Teaching Assistant | University of Bern
 | Fall 2024 | Applied Mathematics | Teaching Assistant | University of Bern
