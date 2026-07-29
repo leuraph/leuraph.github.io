@@ -18,7 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 Equal parts **scientist** and **artist**.
 Physicist and PhD Researcher in numerical analysis.
-Musician fronting Arkas, drummer of two bands, and co-head of Lauter Festival (ZH).
+Musician fronting Arkas and drummer of two bands.
+Further, I have been part of the organizing committee
+of Lauter Festival (ZH) since 2025 and co-head in 2026.
 
 Currently, I am persuing a **PhD** in mathematics at the University Of Bern with a focus on numerical analysis.
 I am especially interested in solving
@@ -37,4 +39,6 @@ and the open-source project [OPENFOAM](https://openfoam.org/).
 Also, I have worked as a C++/Python software developer at [Meteomatics AG](https://www.meteomatics.com/)
 , where I was mainly involved in the implementation of the weather API and performance optimizations thereof.
 
-As a drummer, I am both part of the Band [Kaufmann](https://kaufmannmusik.ch/) and [Happy For Real](https://www.happyforreal.ch/).
+As a solo artist, I release music as [ARKAS](https://arkasmusik.ch/) and,
+as a drummer, I am both part of the Band [Kaufmann](https://kaufmannmusik.ch/)
+and [Happy For Real](https://www.happyforreal.ch/).
